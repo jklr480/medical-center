@@ -238,7 +238,7 @@ export default function OurTeam() {
         />
         <div className="relative z-10 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Book an Appointment Today
+            Book an Appointment Today.
           </h2>
           <p className="max-w-xl mx-auto mb-8 text-lg">
             We are ready to care for you. Schedule an appointment with our doctors and
